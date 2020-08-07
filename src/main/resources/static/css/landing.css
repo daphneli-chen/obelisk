@@ -1,0 +1,53 @@
+#landingNav {
+    position: absolute;
+}
+
+body {
+    background-color: #f4fff9;
+}
+
+
+.accordion {
+    position: absolute;
+    top: 50px;
+}
+
+.panel-group {
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    width: 100%;
+}
+
+.waitingScreen {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: mediumvioletred;
+}
+
+.sjs {
+    display: inline-block;
+    top: 50%;
+    bottom: 50%;
+}
+
+.con
+
+.images {
+    position: relative;
+    right: 0px;
+}
+
+.waitingScreen {
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+    top: 50%;
+    bottom: 50%;
+}
